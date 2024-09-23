@@ -1,0 +1,24 @@
+* {
+  text-align: center;
+}
+h1 {
+  margin: 32px;
+  padding: 5%;
+  font-size: 145%;
+}
+.our-blogs {
+  margin-bottom: 2rem;
+  border-radius: 30px;
+}
+section {
+  margin-bottom: -5rem;
+}
+.article-text {
+  text-align: left;
+}
+@media (max-width: 400px) {
+  .article-text {
+    width: 100%;
+    margin-left: 0;
+  }
+}
