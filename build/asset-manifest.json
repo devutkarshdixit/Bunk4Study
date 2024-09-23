@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4222cf79.css",
+    "main.js": "/static/js/main.b70bf339.js",
+    "static/media/Logo1.png": "/static/media/Logo1.f8c130b6fe3a81ad269b.png",
+    "static/media/second.svg": "/static/media/second.883a8eb6e4e6acefcd605c1faca030ff.svg",
+    "static/media/Asmita.jpg": "/static/media/Asmita.db344b2626c35ed3340c.jpg",
+    "static/media/Tshirt.jpeg": "/static/media/Tshirt.10ee0ddcfa69fd25bb5b.jpeg",
+    "static/media/Surya.jpg": "/static/media/Surya.9ecff378473692bf916d.jpg",
+    "static/media/Pritom.jpg": "/static/media/Pritom.1e3e77c69d141f41fb71.jpg",
+    "static/media/Utkarsh.jpg": "/static/media/Utkarsh.98bd84d476bc36760fcc.jpg",
+    "static/media/Aditya.jpg": "/static/media/Aditya.2692bf6e594b95ddc938.jpg",
+    "static/media/first.svg": "/static/media/first.78dded1d7885333fc56ada78587a1779.svg",
+    "static/media/third.svg": "/static/media/third.b809d9f0aa4c5aeac7146df6dc99a3b2.svg",
+    "index.html": "/index.html",
+    "main.4222cf79.css.map": "/static/css/main.4222cf79.css.map",
+    "main.b70bf339.js.map": "/static/js/main.b70bf339.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4222cf79.css",
+    "static/js/main.b70bf339.js"
+  ]
+}
